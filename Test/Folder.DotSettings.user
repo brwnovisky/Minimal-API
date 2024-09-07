@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd9a8b73_002D5ce1_002D4827_002Da39f_002De64f1fa699d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestandoSalvarAdministrador" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::BAB20A64-7BE0-C4ED-C163-F679A746F7AB::net8.0::Test.Domain.Service.AdministratorServiceTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::BAB20A64-7BE0-C4ED-C163-F679A746F7AB::net8.0::Test.Domain.Entity.AdministratorTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::BAB20A64-7BE0-C4ED-C163-F679A746F7AB::net8.0::Test.Request.AdministratorRequestTest.GetAdministratorTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
